@@ -1,0 +1,23 @@
+{
+  "name": "spm-zoey-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navdeepbeniwal16/spm-zoey-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navdeepbeniwal16/spm-zoey-backend/issues"
+  },
+  "homepage": "https://github.com/navdeepbeniwal16/spm-zoey-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
